@@ -1,4 +1,7 @@
 # ACFD Python labs
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sgepner/ACFD-Python-labs.git/main)
+
 This contains a set of laboratories designed for students of the ACFD class.
 
 1. Linear 1D advection problem solved with different discretizations with the focus on stability and manifestation of the numerical error.
